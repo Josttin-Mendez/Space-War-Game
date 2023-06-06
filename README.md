@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://github.com/Esteban-M1000/Space-War-Game/assets/112291940/77d36301-fcf3-49e9-ba35-bd7de175afe1" alt="Space War">
 </p>
----
 
 https://github.com/Esteban-M1000/Space-War-Game/assets/112291940/351707a8-e0ed-4edc-9936-bb9004029785
 
