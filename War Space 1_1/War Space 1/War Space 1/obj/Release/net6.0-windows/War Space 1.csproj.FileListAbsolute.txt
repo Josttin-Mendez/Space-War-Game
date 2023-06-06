@@ -1,0 +1,47 @@
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\War Space 1.exe
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Click.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Click1.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\End.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\purga.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Ship_1.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Ship_2.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Ship_3.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Ship_4.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Ship_5.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Ship_6.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Sound_Pricipal.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\Start.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\Sounds\victoria.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\War Space 1.deps.json
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\War Space 1.runtimeconfig.json
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\War Space 1.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\War Space 1.pdb
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.Asio.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.Core.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.Midi.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.WinForms.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\NAudio.WinMM.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Form7.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.History_2.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.History_3.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Form2.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Form1.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Form3.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Record.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Setting.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War_Space_1.Form4.resources
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\refint\War Space 1.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.pdb
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\War Space 1.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\obj\Release\net6.0-windows\ref\War Space 1.dll

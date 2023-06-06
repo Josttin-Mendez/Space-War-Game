@@ -1,0 +1,25 @@
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Click.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Click1.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\End.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\purga.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Ship_1.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Ship_2.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Ship_3.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Ship_4.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Ship_5.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Ship_6.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Sound_Pricipal.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\Start.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\Sounds\victoria.wav
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\War Space 1.exe
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\War Space 1.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\War Space 1.deps.json
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\War Space 1.runtimeconfig.json
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\War Space 1.pdb
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.Asio.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.Core.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.Midi.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.Wasapi.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.WinForms.dll
+C:\Users\LENOVO\Downloads\War Space 1_1 (2)\War Space 1_1\War Space 1\War Space 1\bin\Release\net6.0-windows\publish\NAudio.WinMM.dll
