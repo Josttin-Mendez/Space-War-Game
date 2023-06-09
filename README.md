@@ -19,7 +19,7 @@ The mission is dangerous and many of the pilots do not return, but they manage t
 
 The war ends in victory for the humans, but at great cost. Major cities around the world have been destroyed and millions of people have died in the fighting. The humans begin to rebuild and prepare for a possible invasion in the future, while the aliens return to their planet with the promise that they will return someday to finish what they started.
 
-Eliminate the last remaining troops on earth.
+Eliminate the last remaining troops on earth!.
 
 ## Technologies used
 
